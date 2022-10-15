@@ -1,0 +1,14 @@
+list.txt: ds cac file game duoc luu. 
+number: so luong cac file game duoc luu.
+
+************************************************************
+Cau truc du lieu file luu game: 
+_A[][] 
+TBL[][]
+_TURN  _COMMAND _X _Y vtx vty nx no m mx mo boardc xc oc boardsize
+
+
+**********************************************************
+
+
+AUTHOR: 18120515_HCMUS

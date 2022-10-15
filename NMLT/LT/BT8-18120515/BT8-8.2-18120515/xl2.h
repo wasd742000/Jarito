@@ -1,0 +1,1 @@
+void sum_x(int a[][100], int m, int n, int vtn, int vtd, int &sn, int &sd);

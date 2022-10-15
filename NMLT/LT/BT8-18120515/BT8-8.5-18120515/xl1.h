@@ -1,0 +1,1 @@
+void nhap(char ten[], char ngaysinh[], bool &gioitinh, float &diemvan, float &diemtoan);
