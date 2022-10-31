@@ -1,0 +1,11 @@
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\bin\Debug\SharpGL.exe.config
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\bin\Debug\SharpGL.exe
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\bin\Debug\SharpGL.pdb
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\18120515_BT2.csproj.AssemblyReference.cache
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\SharpGL.Form_Paint.resources
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\SharpGL.Properties.Resources.resources
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\18120515_BT2.csproj.GenerateResource.cache
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\18120515_BT2.csproj.CoreCompileInputs.cache
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\18120515_BT2.csproj.CopyComplete
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\SharpGL.exe
+E:\des\CG-Paint2D-master\SharpGL\SharpGL\obj\Debug\SharpGL.pdb

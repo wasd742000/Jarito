@@ -1,1 +1,0 @@
-void rutgonps(int &tu, int &mau);

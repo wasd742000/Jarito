@@ -1,1 +1,0 @@
-bool ktnt(int n);
